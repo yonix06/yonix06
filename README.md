@@ -29,13 +29,13 @@
 
 ### Technical Expertise
 
- > languages: ['TypeScript', 'JavaScript', 'Shell'],
- > frontend: ['React', 'Next.js', 'Tailwind CSS', 'NX Monorepo'],
- > backend: ['Node.js', 'Prisma', 'REST APIs'],
- > testing: ['Jest', 'Playwright', 'End-to-End Testing'],
- > infrastructure: ['Docker', 'Docker Compose', 'Unraid'],
- > security: ['Pre-commit Hooks', 'ESLint', 'Security Policies'],
- > tools: ['Git', 'GitHub Actions', 'Prettier', 'VSCode']
+ > - languages: ['TypeScript', 'JavaScript', 'Shell']
+ > - frontend: ['React', 'Next.js', 'Tailwind CSS', 'NX Monorepo']
+ > - backend: ['Node.js', 'Prisma', 'REST APIs']
+ > - testing: ['Jest', 'Playwright', 'End-to-End Testing']
+ > - infrastructure: ['Docker', 'Docker Compose', 'Unraid']
+ > - security: ['Pre-commit Hooks', 'ESLint', 'Security Policies']
+ > - tools: ['Git', 'GitHub Actions', 'Prettier', 'VSCode']
 
 
 ### Architecture & Best Practices
