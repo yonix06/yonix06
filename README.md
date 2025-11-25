@@ -59,7 +59,7 @@ Security is not an afterthought—it's a core principle in every project I build
 
 ### Security Practices
 - 🛡️ **Security Policies**: Dedicated SECURITY.md files with vulnerability reporting procedures
-- 🔐 **Web Commit Signoff**: Required GPG-signed commits on sensitive repositories
+- 🔐 **Commit Signing**: GPG-signed commits on sensitive repositories for authenticity verification
 - ⚡ **Pre-commit Hooks**: Automated security checks before code commits
 - 📋 **Code of Conduct**: Community safety and inclusive collaboration standards
 - 🔍 **Dependency Management**: Regular security audits and updates
