@@ -15,7 +15,6 @@
   - 📜 Includes: Code of Conduct, Security Policy, Pre-commit hooks
 
 - **[Commerce App v2](https://github.com/yonix06/commerce-app-v2)** - Modern e-commerce platform
-  - ⭐ 1 star on GitHub
   - 🔧 Shell-based infrastructure management
   - 📦 Active development with production deployments
 
@@ -24,25 +23,20 @@
   - 🐳 Licensed under GPL-3.0
   - 🔐 Secure development environment solution
 
-- **[Unraid Projects](https://github.com/yonix06/Unraid-Store)** - Docker extensions and TypeScript-based solutions for Unraid systems
-  - 🏗️ Active contribution to the Unraid ecosystem
-
 ---
 
 ## 💼 Professional Experience
 
 ### Technical Expertise
-```typescript
-const skills = {
-  languages: ['TypeScript', 'JavaScript', 'Shell'],
-  frontend: ['React', 'Next.js', 'Tailwind CSS', 'NX Monorepo'],
-  backend: ['Node.js', 'Prisma', 'REST APIs'],
-  testing: ['Jest', 'Playwright', 'End-to-End Testing'],
-  infrastructure: ['Docker', 'Docker Compose', 'Unraid'],
-  security: ['Pre-commit Hooks', 'ESLint', 'Security Policies'],
-  tools: ['Git', 'GitHub Actions', 'Prettier', 'VSCode']
-};
-```
+
+ > languages: ['TypeScript', 'JavaScript', 'Shell'],
+ > frontend: ['React', 'Next.js', 'Tailwind CSS', 'NX Monorepo'],
+ > backend: ['Node.js', 'Prisma', 'REST APIs'],
+ > testing: ['Jest', 'Playwright', 'End-to-End Testing'],
+ > infrastructure: ['Docker', 'Docker Compose', 'Unraid'],
+ > security: ['Pre-commit Hooks', 'ESLint', 'Security Policies'],
+ > tools: ['Git', 'GitHub Actions', 'Prettier', 'VSCode']
+
 
 ### Architecture & Best Practices
 - ✅ **Security-First Development**: All projects include security policies and vulnerability reporting
