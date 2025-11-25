@@ -33,7 +33,7 @@
  > - frontend: ['React', 'Next.js', 'Tailwind CSS', 'NX Monorepo']
  > - backend: ['Node.js', 'Prisma', 'REST APIs']
  > - testing: ['Jest', 'Playwright', 'End-to-End Testing']
- > - infrastructure: ['Docker', 'Docker Compose', 'Unraid']
+ > - infrastructure: ['Docker', 'Docker Compose']
  > - security: ['Pre-commit Hooks', 'ESLint', 'Security Policies']
  > - tools: ['Git', 'GitHub Actions', 'Prettier', 'VSCode']
 
@@ -71,7 +71,6 @@ Security is not an afterthought—it's a core principle in every project I build
 
 ```text
 📊 8+ Public Repositories
-⭐ 2 Stars Earned
 🔧 TypeScript • Shell • Dockerfile Expertise
 🌐 Production Deployments
 🔒 Security-First Approach
