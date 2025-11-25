@@ -9,7 +9,7 @@
 
 ### 🚀 Production Applications
 - **[Nexar](https://github.com/yonix06/Nexar)** - Enterprise-grade monolithic web application deployed for the city of Saint-Jean-Cap-Ferrat
-  - 🌐 Live at: [arretes.saintjeancapferrat.fr](https://arretes.saintjeancapferrat.fr)
+  - 🌐 Live
   - ⭐ Featured comprehensive documentation management system
   - 🛠️ Built with modern stack: NX, TypeScript, Tailwind CSS, Jest, Playwright
   - 📜 Includes: Code of Conduct, Security Policy, Pre-commit hooks
