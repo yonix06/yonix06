@@ -1,4 +1,4 @@
-# Hi there 👋 I'm yonix06
+# Hi there 👋
 
 > **Full-Stack Developer | Security-First Advocate | Open Source Contributor**  
 > *Building robust, scalable, and secure web applications*
