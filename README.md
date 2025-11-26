@@ -8,18 +8,17 @@
 ## 🏆 Notable Achievements
 
 ### 🚀 Production Applications
-- **[Nexar](https://github.com/yonix06/Nexar)** - Enterprise-grade monolithic web application deployed for the city of Saint-Jean-Cap-Ferrat
-  - 🌐 Live
+- **[Nexar]** - Enterprise-grade monolithic web application deployed for the city of Saint-Jean-Cap-Ferrat
   - ⭐ Featured comprehensive documentation management system
-  - 🛠️ Built with modern stack: NX, TypeScript, Tailwind CSS, Jest, Playwright
+  - 🛠️ Built with modern stack: TypeScript, Tailwind CSS, Jest, Playwright
   - 📜 Includes: Code of Conduct, Security Policy, Pre-commit hooks
 
-- **[Commerce App v2](https://github.com/yonix06/commerce-app-v2)** - Modern e-commerce platform
+- **[Commerce App v2]** - Modern e-commerce platform
   - 🔧 Shell-based infrastructure management
   - 📦 Active development with production deployments
 
 ### 🐧 Infrastructure & DevOps
-- **[Coder AIO](https://github.com/yonix06/coder-aio)** - VSCode server Docker container with Docker-outside-of-Docker capability
+- **[Coder AIO]** - VSCode server Docker container with Docker-outside-of-Docker capability
   - 🐳 Licensed under GPL-3.0
   - 🔐 Secure development environment solution
 
