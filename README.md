@@ -17,10 +17,14 @@
   - 🔧 Shell-based infrastructure management
   - 📦 Active development with production deployments
 
-### 🐧 Infrastructure & DevOps
+### 🐧 SecOps & DevOps
 - **[Coder AIO]** - VSCode server Docker container with Docker-outside-of-Docker capability
   - 🐳 Licensed under GPL-3.0
   - 🔐 Secure development environment solution
+ 
+- **[SecRepoGui]** - A GUI to securely learn, create, and demonstrate commons securities flaws in Windows OSes
+  - 🐳 Licensed under MIT
+  - 🔐 Secure demonstration environment solution based on CAPEv2 secures VMs
 
 ---
 
@@ -28,13 +32,13 @@
 
 ### Technical Expertise
 
- > - languages: ['TypeScript', 'JavaScript', 'Shell']
- > - frontend: ['React', 'Next.js', 'Tailwind CSS', 'NX Monorepo']
- > - backend: ['Node.js', 'Prisma', 'REST APIs']
+ > - languages: ['TypeScript', 'JavaScript', 'Shell', 'C#', 'Python', 'Rust']
+ > - frontend: ['React', 'Next.js', 'Tailwind CSS', 'NX/PNPM Monorepo']
+ > - backend: ['Node.js', 'Prisma/Zenstack', 'REST APIs']
  > - testing: ['Jest', 'Playwright', 'End-to-End Testing']
  > - infrastructure: ['Docker', 'Docker Compose']
  > - security: ['Pre-commit Hooks', 'ESLint', 'Security Policies']
- > - tools: ['Git', 'GitHub Actions', 'Prettier', 'VSCode']
+ > - tools: ['Git', 'GitHub Actions', 'Prettier', 'VSCode', 'CAPEv2', 'Kali']
 
 
 ### Architecture & Best Practices
