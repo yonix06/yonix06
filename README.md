@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there
 
 > **Full-Stack Developer | Security-First Advocate | Open Source Contributor**  
 > *Building robust, scalable, and secure web applications — primarily for the public sector*
@@ -65,17 +65,6 @@
 
 - **[Coder AIO](https://github.com/yonix06/coder-aio)** - Conteneur Docker VSCode server avec Docker-outside-of-Docker
   - 🐳 Licence GPL-3.0 · Solution d'environnement de développement sécurisé
-
-- **[coder-oss]** - Provisionnement d'environnements de développement distants via Terraform
-  - ☁️ Infrastructure-as-Code pour workspaces Coder
-
-- **[Docker-Themis / DevLab-Themis]** - Environnements de développement conteneurisés
-
-- **[Unraid-Store](https://github.com/yonix06/Unraid-Store)** - Extension Docker Desktop pour Unraid
-  - ⚛️ Frontend React + backend Go · Publiée en extension Docker Desktop
-
-- **[unraid-docker-ext](https://github.com/yonix06/unraid-docker-ext)** - Scaffold d'extension Docker Unraid
-  - 📜 Licence Apache-2.0
 
 ### 🤖 AI & Automatisation
 
